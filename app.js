@@ -237,7 +237,7 @@
       email: document.getElementById("email").value.trim(),
       notes: document.getElementById("notes").value.trim(),
       privacyConsent: document.getElementById("privacy-consent").checked,
-      source: "booking-system-final-2",
+      source: "booking-system-medical-staff-",
       timezone: "Africa/Algiers",
       submittedAt: new Date().toISOString()
     };
