@@ -9,7 +9,7 @@ https://github.com/wadietaghzouti20-dot/booking-system-medical-staff-
 ## Website
 
 After enabling GitHub Pages from **Settings → Pages → Deploy from a branch → main → /(root)**, the site will be:
-https://${owner}.github.io/booking-system-medical-staff-/
+https://wadietaghzouti20-dot.github.io/booking-system-medical-staff-/
 
 ## Features in the code
 
