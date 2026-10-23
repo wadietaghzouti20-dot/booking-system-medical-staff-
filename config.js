@@ -1,9 +1,7 @@
-/* Configuration du site de réservation pour équipes médicales.
- * Ajoutez l'URL de la nouvelle application Web Apps Script après son déploiement.
- * Ne placez aucun secret ni mot de passe dans ce fichier public.
- */
+
+/* Configuration du site de réservation médical */
 window.BOOKING_CONFIG = Object.freeze({
   clinicName: "Équipe médicale",
   clinicPhone: "",
-  appsScriptUrl: ""
+  appsScriptUrl: "https://script.google.com/macros/s/AKfycbw6t4VUQccuRw6jEhFpbqFj5YocsNTenX63Gbgo8jjJRksIQJRAq4tpMl5PTO8EEMjWGA/exec"
 });
